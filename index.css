@@ -36,7 +36,7 @@
 }
 .outer>h3{
     margin-top: 30px;
-    color: rgb(102, 67, 102);
+    color: rgba(115, 64, 98, 0.935);
     margin-bottom: 5px;
 }
 .outer>.content{
@@ -67,7 +67,7 @@
     margin-bottom: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 800;
-    color: rgb(102, 67, 102);
+    color: rgba(115, 64, 98, 0.935);
 }
 .outer>audio{
     width: 30%;
