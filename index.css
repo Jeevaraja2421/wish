@@ -33,6 +33,7 @@
 }
 .outer>h1{
     color: rgba(115, 64, 98, 0.935);
+    text-transform: capitalize;
 }
 .outer>h3{
     margin-top: 30px;
@@ -54,6 +55,10 @@
     word-spacing: 3px;
     color: rgb(109, 80, 85);
     text-indent: 50px;
+}
+.outer>.content>#start>span{
+    color: rgb(65, 44, 47);
+    font-style: italic;
 }
 .outer>.content>#end{
     text-align: center;
